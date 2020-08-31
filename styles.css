@@ -1,0 +1,24 @@
+p{
+    text-align: center;
+}
+
+header, footer{
+    background-color: #764b41;
+    color: white;
+}
+
+.photo-odd{
+    background-color: #ef7a70;
+}
+
+.photo-even{
+    background-color: #58c7f0;
+}
+
+#left-menu{
+    background-color:  #FFC300;
+}
+
+#top-menu{
+    background-color:  #e78e62;
+}
